@@ -1,0 +1,12 @@
+## Before
+
+Vulnerability DB                [updated]
+ ✔ Scanned for vulnerabilities     [636 vulnerability matches]
+   ├── by severity: 12 critical, 59 high, 2081 medium, 245 low, 46 negligible
+   └── by status:   118 fixed, 2325 not-fixed, 1807 ignored
+
+## After
+
+Scanned for vulnerabilities     [636 vulnerability matches]
+   ├── by severity: 12 critical, 59 high, 2081 medium, 245 low, 46 negligible
+   └── by status:   118 fixed, 2325 not-fixed, 1807 ignored 
